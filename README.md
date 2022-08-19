@@ -8,4 +8,4 @@ Data cleaning is done, followed by modelling and selection of best model to pred
 A website is created where user can input the paramters and estimated output will be displayed through python flask server
 
 ### About Me: 
-Mandira Ghosh, 190100073, 4th year B.Tech in Mchanical Engineering, IIT Bombay 
+Mandira Ghosh, 190100073, 4th year B.Tech in Mechanical Engineering, IIT Bombay 
